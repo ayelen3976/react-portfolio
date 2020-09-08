@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Ayelen Fernandez",
+    "occupation": "ReactJS Developer && Student",
+    "description": "Full Stack Developer by Day, Founder && Freelancer by Night.",
+    "image": "profileAye.jpeg",
+    "bio": "My name is Ayelen, I'm a Full Stack ReactJS Developer. Currently I'm Studyig at Bootcamp Programmer while also Study at a University ",
+    "contactmessage": "Get in touch with me to receive further details  or anything else.",
+    "email": "ayee_01@live.com",
+    "phone": "+54 9 11 2515-2015",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "city": "Argentina",
+      "state": "Buenos Aires",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/ayee.fernandez.315",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/ayelen-fernandez-783286187/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/ayefernandez0211/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/ayelen3976",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +43,30 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Juan Bautista Alberdi School",
+        "degree": "bachelor in communication",
+        "graduated": "November 2019",
         "description": "Graduated with Distinction"
       }
     ],
-    "work": [
+    "ITstudy": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "Henry",
+        "title": "Full-Stack Developer",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": " Learning skills."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Education IT",
+        "title": "Advanced JavaScript",
+        "years": "January 2020 - January 2020 ",
+        "description": "Learn the new of ES6"
+      },
+      {
+        "company": "Aprende Programando",
+        "title": "Front-end",
+        "years": "April 2018 - july 2019 ",
+        "description": "Learn the programming languages"
       }
     ],
     "skills": [
@@ -77,15 +83,15 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Javascript",
+        "level": "85%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "NodeJS",
         "level": "80%"
       }
     ]
@@ -127,11 +133,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text": "Ayelen is a person who faces challenges and believes no knowledge is enough and has shown her passion for the IT world since she was 16 years old.",
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Ayelen Fernandez must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
