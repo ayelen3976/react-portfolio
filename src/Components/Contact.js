@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
+   const [url, setUrl] = useState('mailto:ayee_01@live.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
@@ -11,7 +11,8 @@ const Contact = ({ data }) => {
 
     const handleClick = (e) => {
        e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+      // window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+      window.open(`${url}?subject=${subject}&body=${name}: ${message}`);
     }
     
 

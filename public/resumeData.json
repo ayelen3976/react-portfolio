@@ -1,21 +1,19 @@
 {
   "main": {
     "name": "Ayelen Fernandez",
-    "occupation": "ReactJS Developer && Student",
+    "occupation": " FullstackDeveloper && Student",
     "description": "Full Stack Developer by Day, Founder && Freelancer by Night.",
     "image": "profileAye.jpeg",
-    "bio": "My name is Ayelen, I'm a Full Stack ReactJS Developer. Currently I'm Studyig at Bootcamp Programmer while also Study at a University ",
+    "bio": "My name is Ayelen, I'm a FullStack Developer.I love programming, while also studying at the university >> no knowledge is enough  ",
     "contactmessage": "Get in touch with me to receive further details  or anything else.",
     "email": "ayee_01@live.com",
     "phone": "+54 9 11 2515-2015",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Argentina",
-      "state": "Buenos Aires",
-      "zip": "ABC 123"
+      "city": "Argentina, ",
+      "state": "Buenos Aires"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://drive.google.com/file/d/1rr7ax9bo-en_qVRcIfVnVVTEWEmhZ4NN/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1rr7ax9bo-en_qVRcIfVnVVTEWEmhZ4NN/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,7 +38,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "*html-css-javascript-bootsrap-react-redux-nodejs-SQL-sequelize*",
     "education": [
       {
         "school": "Juan Bautista Alberdi School",
@@ -51,10 +49,10 @@
     ],
     "ITstudy": [
       {
-        "company": "Henry",
-        "title": "Full-Stack Developer",
-        "years": "April 2020 - Present",
-        "description": " Learning skills."
+        "company": "Aprende Programando",
+        "title": "Front-end",
+        "years": "April 2018 - july 2019 ",
+        "description": "Learn the programming languages"
       },
       {
         "company": "Education IT",
@@ -63,11 +61,13 @@
         "description": "Learn the new of ES6"
       },
       {
-        "company": "Aprende Programando",
-        "title": "Front-end",
-        "years": "April 2018 - july 2019 ",
-        "description": "Learn the programming languages"
+        "company": "Henry",
+        "title": "Full-Stack Developer",
+        "years": "April 2020 - December 2020",
+        "description": " Learning skills."
       }
+ 
+
     ],
     "skills": [
       {
@@ -99,34 +99,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with (ReactJS)",
+        "image": "amazon.png",
+        "url": " https://challenge-c052e.web.app/"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "category": "Netflix Clone built with (ReactJS)",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-alpha.vercel.app/"
+      },
+      {
+        "title": "WeatherApp2.0",
+        "category": "FullStack",
+        "image": "weather.png",
+        "url": "https://github.com/ayelen3976/WeatherApp2.0"
+      },
+      {
+        "title": "E-commerce",
+        "category": "Fullstack",
+        "image": "ecommerce.png",
+        "url": "https://github.com/henry-labs/ecommerce-ft05-g11"
       }
     ]
   },

@@ -1,5 +1,13 @@
 import React, { Component } from 'react';
-
+import iconreact from '././icons/iconreact.png'
+import bootstrap from '././icons/boostrap.png'
+import css from '././icons/css.png'
+import html from '././icons/html.png'
+import javascript from '././icons/javascript.png'
+import node from '././icons/node.png'
+import redux from '././icons/redux.png'
+import sequelize from '././icons/sequelize.png'
+import sql from '././icons/sql.png'
 class Resume extends Component {
   render() {
 
@@ -16,10 +24,10 @@ class Resume extends Component {
             <p>{ITstudy.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
+/*       var skills = this.props.data.skills.map(function(skills){
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
-      })
+      }) */
     }
 
     return (
@@ -66,7 +74,20 @@ class Resume extends Component {
 
 				<div className="bars">
 				   <ul className="skills">
-					  {skills}
+					  {/* {skills} */} 
+
+  
+            <img  style={{width: '15%', height: '15%'}} src={html}/>
+            <img  style={{width: '15%', height: '15%'}} src={css}/>
+            <img  style={{width: '15%', height: '15%'}} src={javascript}/>
+            <img  style={{width: '13%', height: '15%'}} src={bootstrap}/>
+            <img  style={{width: '15%', height: '15%'}} src={iconreact}/>
+            <img  style={{width: '15%', height: '15%'}} src={redux}/>
+            <img  style={{width: '19%', height: '15%'}} src={node}/>
+            <img  style={{width: '15%', height: '15%'}} src={sql}/>
+            <img  style={{width: '15%', height: '15%'}} src={sequelize}/>
+       
+            <img  style={{width: '40%', height: '15%'}} src='https://mwiki.fib.upc.edu/pti/images/9/9e/Express.png'/>
 					</ul>
 				</div>
 			</div>
